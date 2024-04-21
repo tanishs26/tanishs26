@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💥️ About Me:
 🔭 UnderGrad<br><br>🌱 I’m currently learning MERN Stack<br>⚡ I want to be a skilled Full Stack Developer
 
 
