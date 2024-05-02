@@ -1,4 +1,4 @@
-# 💥️ About Me:
+# 💥️ Hello!
 🔭 UnderGrad<br><br>🌱 I’m currently learning MERN Stack<br>⚡ I want to be a skilled Full Stack Developer
 
 
@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tanishs26&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
