@@ -1,5 +1,5 @@
 #  Hello!
- UnderGrad<br><br> I’m currently learning MERN Stack<br> I want to be a skilled Full Stack Developer
+ UnderGrad<br/> Currently learning MERN Stack<br> Full Stack Development
 
 
 ## 🌐 Socials:
