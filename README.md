@@ -1,86 +1,55 @@
-
-<h1 align="center">Hey there , It's Tanish Sharma!</h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanishs26&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<div align="center"><b>Full Stack Developer | Building End-to-End Applications</b></div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=100&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=120&lines=Hi+There!+%F0%9F%91%8B;I'm+Abhishek+AN" alt="Typing SVG" />
 
----
+<br/>
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-- 🏫 **BCA (Honours) Graduate** (India)
-- 🔭 Working on **real-world full stack projects** using React.js, Next.js, Node.js, and MERN stack technologies
-- 🧑‍💻 Gaining practical experience in **backend development, cloud setups, and modern UiUx designs**
-- 🌐 Building & maintaining a portfolio site and apps — e.g., **Muse (music streaming)** and **Horizon (blog platform)**
-- 💼 Open to exciting **work opportunities** in web development and software engineering
-- ☕ Driven by **curiosity, code, late-night learning, and collaboration**
+<p align="center">
+I’m a recent grad with a degree in <b>Bachelor's of Computer Application(Hons.)</b>.
+<br/>
+I’m super passionate about <b>Full Stack Development</b> and eager to learn and grow my skills in that area.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-7aa2f7?style=for-the-badge&logoColor=white" alt="Based in Delhi, India" />
+  
+  <img src="https://img.shields.io/badge/Learning-DSA-e0af68?style=for-the-badge&logoColor=white" alt="Learning DSA" />
+  <a href="http://tanish-sharma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-abhishekbalija.xyz-bb9af7?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<br/>
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,vscode,vite,tailwind,bootstrap,chakra" />
+  </a>
+</p>
 
 
----
 
-## 💻 Tech Stack
-![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Cloudinary](https://img.shields.io/badge/cloudinary-2C2B39?style=flat&logo=cloudinary&logoColor=blue)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/windows-0078D6?style=flat&logo=windows&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+### 📫 Connect with Me
 
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishs26/)
-[![Email](https://img.shields.io/badge/Email-%231877F2.svg?logo=mail.ru&logoColor=white)](mailto:tanishsharma2627@gmail.com)
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/@tanishs26)
-
----
-
-<h2 align="center"> My Contributions </h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishs26&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
+  <a href="https://www.linkedin.com/in/tanishs26/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="http://www.instagram.com/tanishs26/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.x.com/tanishs26" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:tanishsharma2627@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishs26&theme=dark&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Language Used" height="150" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishs26&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="readme streak stats" height="150" />
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
----
-
-## ✉️ Get in Touch
-
-- **Email:** [tanishsharma2627@gmail.com](mailto:tanishsharma2627@gmail.com)
-- **LinkedIn:** [tanishs26](https://www.linkedin.com/in/tanishs26/)
-- **Twitter:** [tanishs26](https://x.com/@tanishs26)
-
-<br>
-
-<div align="center">
-  <h3>Thanks for stopping by! 😊</h3>
 </div>
