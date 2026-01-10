@@ -16,9 +16,6 @@ I’m super passionate about <b>Full Stack Development</b> and eager to learn an
   <img src="https://img.shields.io/badge/Based%20in-Delhi%2C%20India-7aa2f7?style=for-the-badge&logoColor=white" alt="Based in Delhi, India" />
   
   <img src="https://img.shields.io/badge/Learning-DSA-e0af68?style=for-the-badge&logoColor=white" alt="Learning DSA" />
-  <a href="http://tanish-sharma.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-tanish-sharma.vercel.app-bb9af7?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 <br/>
